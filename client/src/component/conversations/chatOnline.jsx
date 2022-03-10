@@ -41,6 +41,7 @@ const ChatOnline=({onlineUsers, currentId, setCurrentChat })=>{
  	  .catch(err=>console.log(err))
  }
  //setCurrentChat(result._id)
+ //extra git commit
  //console.log("The following state",followings)
 /* user.followers.map((friendId)=>{
  	fetch('/friendDetails/'+friendId,{
